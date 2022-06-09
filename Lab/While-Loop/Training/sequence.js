@@ -1,0 +1,6 @@
+function sequence(input){
+
+
+
+}
+sequence()
